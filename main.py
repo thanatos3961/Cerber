@@ -24,7 +24,7 @@ unsuccessful_color = nextcord.Color.orange()
 bot.remove_command("help")
 
 # Path to your credentials JSON file
-creds_path = r"C:\Users\levil\Documents\cerber-435722-877304fe22e4.json"
+creds_path = os.path.join(os.path.dirname(__file__), 'cerber-435722-877304fe22e4.json')
 
 # Define the scope of the API
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
