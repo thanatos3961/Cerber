@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cerber-435722",
+  "private_key_id": "877304fe22e418bf2be9d2f218156cbc9b20c7f7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCu1wJ7rpmgfIKq\nGaEENK/uyH/gjx+EIv6/cX/at4EjcZ63up7hKwUC5EHAoVIeV32iAjHM16Hb+rsO\nVNzu479zUnFOkHnSihj2gMj7uiTzcBogXH53pRJd/x/NbgW0ZwA1Fj0qYEK0r4A4\nYmWFkA+n2DFV9RH1dV/FIV2dxhdqjpcHwkVMoDSmYK7ROWXhtW4pf2BAHji+oJcY\nSLkhdMJE83dz0wPyw2dyqxMieZhrc919puUNtyBkal8jRnbJoF84i6iW11ydFC4I\n2tXDtzXh0KKedEuTfpvGuCmAnC3ZvqSUiIXbxkkJn2a9ELHP0wEzZN+M6djsjzVG\nFX3IwAeLAgMBAAECggEAIgO2efV38d8HVKxzxOuzJpNfPYLasMxWH0yngReeShT6\nuefWrRu/d9aMbDt2TGzdBj3DDoUM+k0HQzyDVv576qWpYY1+BdXUEXDwqPiH48x1\naMJV4FT/A8Z0m3TCK1y2j51p/OqJT7mtCksqURe70/2da4moGsbhAOsC2YUGXTZZ\nmTlBT4ZwdrpFgljwSmENGcYWiyp1nM28g8hWr7u9zIbT21T7k9xvwSPkYbivxDtR\nZ8TV1WD/GuM5iCgDviDTLWr0+7bs9KraL1PmczJF3cE5vNlXQe3mBN9Zo1ulAoty\n7RJLc9eNmFbUHB1GEhjueNT+Xw0VYgoP2lemGwpbwQKBgQDsrlYttCh0LWZwP1ZK\nB2sLmijfBpeAFXIp5qz6W9ARJWgjbuWLmqXmFgixVmVBMZPb7RUDK+kf+7PEo/f/\noP9ViGS3mMkGQnZOASyWYXkHxFvspdRVc1c6y219EtJixJ7CYB9yYfDIRyl8J7YX\nHctIreeuU6VEf9fykpnS/xEJ0QKBgQC9HHJtHTD0nOc0jvJbCHvy8oqphFvHLBsV\nqVbJVPRfW8RX3wCv3TwnGQRqHg7uCWyP+rMZnY+/rbI3zdzIjcXV4YCQPbTauBsR\nLarWtoSDfO1P5BVB6o+1GEHouvGpYxmW8Li8nSbfQDkwralEklOGh+i/lDGoPVeH\nXHkg1c02mwKBgF9+L5MdHz1QnAYp59zShWQW/OqPNE0fWgKB6cTRim+AkjXJpp/e\n85STy0oRu6TEJg4T5+hxrQuUeIGcTpE7Ggoej9Rrtp/p7OWoH59FEJoLpbMjbTpU\n4Rr9vN073NqwzgVK1yVFUurbm2dWdmd5Q+29DL8PTJ0In85lS98PvoYhAoGAXg+J\nJpaPZAuqwCydhQPqSsOyjnBkCeP5MMQCg696wPdu6FnmCJMcuUGrPXDn8iPD2LVU\nYdhJyIgHjdQaDbLehOxduuDGVMefxuKVB6jOrmvzyXnjzN5zThrbpXteeebtsnLX\nIBF2ZTKXf4vRFmdFnjN5Y9i8/jZMk+o94UQWhyMCgYBhV2xQQAlNN9P2f2tasllE\nKnSpQRt38w3gBwkMXYki3yUzmWsIaiqzf5Qf5TgLmYurWR3ril5rXkKVv0m2I2BW\ng7qYAKuPQ7/1fi5RxnNX2lTndYQzPd8cOTl43fXxgTuTtbrRgyc3Y4Vptfv+pV9M\n3RGLpMs4FbQ7pb/X69XYvg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cerber@cerber-435722.iam.gserviceaccount.com",
+  "client_id": "107359481504725057302",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cerber%40cerber-435722.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
