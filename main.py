@@ -59,14 +59,6 @@ async def on_ready():
     print(f'We have logged in as {bot.user}')
     guild_count = len(bot.guilds)
     await bot.change_presence(activity=nextcord.Activity(type=nextcord.ActivityType.watching, name=f"Currently in {guild_count} guilds!"))
-    cogs_path = os.path.join(os.path.dirname(__file__), 'cogs')
-    for filename in os.listdir(cogs_path):
-        if filename.endswith('.py') and filename != '__init__.py':
-            try:
-                await bot.load_extension(f'cogs.{filename[:-3]}')
-                print(f"Loaded extension: {filename[:-3]}")
-            except Exception as e:
-                print(f"Failed to load extension {filename[:-3]}: {e}")
 
 
 @bot.event
